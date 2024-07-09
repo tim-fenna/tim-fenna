@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tim-fenna
 
-  I run a small online business and I am training to be a full stack developer with a view to starting a new career in developement. 
+  I run a small online business and I am training to be a full stack developer with a view to starting a new career in web development. 
 
 - 👀 I’m interested in ...
 
